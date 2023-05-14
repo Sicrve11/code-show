@@ -1,6 +1,6 @@
 # readthedocs 介绍篇
 ## 1.简单介绍
-readthedocs是一个类似于github的免费文档托管网站，相比于github，这个网站使用html文件，因此适合展示某个软件包的安装流程、用法、教程文档等。readthedocs中常规的文档格式是左侧为目录栏，右侧为对应的页面，详见（https://prost-doc.readthedocs.io/en/latest/index.html）
+readthedocs是一个类似于github的免费文档托管网站，相比于github，这个网站使用html文件，因此适合展示某个软件包的安装流程、用法、教程文档等。readthedocs中常规的文档格式是左侧为目录栏，右侧为对应的页面，详见(https://prost-doc.readthedocs.io/en/latest/index.html)
 
 ## 2.存在的必要性
 如果单独使用github来放置一个项目，则除了封装好的软件外，图片、数据等等都放进github中，而这些文件并不是读者需要下载的，这无疑会使github软件包变得更加的臃肿，不利于通过git或clone的方式来快速获取软件包。
